@@ -3,7 +3,7 @@
     {
       "type": "application/spawnpoint",
       "content": {
-        "position": [0,7,0]
+        "position": [0,4,0]
       }
     },
 		{
@@ -38,9 +38,9 @@
       ],
       "quaternion": [
         0,
-        0.7071067811865475,
         0,
-        0.7071067811865475
+        0,
+        0
       ],
       "start_url": "https://aureliostime.github.io/MickeyBodyTTVHead copy.vrm"
     },
